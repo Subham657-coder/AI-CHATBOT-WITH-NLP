@@ -19,3 +19,4 @@ The chatbot worked by first accepting user input, then tokenizing the input usin
 By completing this task, I learned the core principles of NLP such as tokenization, text normalization, and keyword-based intent recognition. It helped me understand how chatbots work under the hood before machine learning or AI is introduced. Additionally, I became familiar with NLTK, one of the most widely used NLP libraries for Python. Although this chatbot was limited in functionality, it served as a strong foundation for more complex chatbot development. I also realized how basic rule-based systems, when combined with good preprocessing, can still deliver a user-friendly experience. Overall, this task was a great starting point in NLP and chatbot development and gave me the confidence to explore more intelligent systems in the future.
 
 #OUTPUT
+<img width="1906" height="840" alt="Image" src="https://github.com/user-attachments/assets/6312e741-0143-4bc4-a495-0c7764b4c489" />
